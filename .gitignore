@@ -1,0 +1,10 @@
+IAM_handwriting_dataset
+images
+SimpleHTR
+WordSegmentation
+frequency_bigramdictionary_en_243_342.txt
+frequency_dictionary_en_82_765.txt
+parserTest.py
+ocrtest.py
+tensortest.py
+testMorph.py
